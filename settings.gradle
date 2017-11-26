@@ -1,0 +1,3 @@
+include 'MyProject_Module1'
+findProject(':MyProject_Module1')?.name = 'Module1'
+
